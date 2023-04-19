@@ -1,6 +1,6 @@
 
-#1.1 Ejercicio
-##Proyecto Java
+# 1.1 Ejercicio
+## Proyecto Java
 Crea un proyecto Maven en Eclipse llamado Cadena. Implementa una clase llamada
 Cadena que tenga los siguientes métodos:
 public int longitud(String cadena):
